@@ -1,0 +1,5 @@
+uno 0
+dos 2
+tres 1
+cuatro 0
+cinco 0
